@@ -1,0 +1,6 @@
+﻿  OS_9.cpp
+g:\os_9\os_9\os_9.cpp(95): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\os_9\os_9\os_9.cpp(794): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note:  см. объявление "asctime"
+  OS_9.vcxproj -> G:\OS_9\Debug\OS_9.exe
+  OS_9.vcxproj -> G:\OS_9\Debug\OS_9.pdb (Full PDB)
